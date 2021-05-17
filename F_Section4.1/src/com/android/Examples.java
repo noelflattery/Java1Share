@@ -1,7 +1,9 @@
 package com.android;
 
 public class Examples {
-	
+	/**
+	 * just a test
+	 */
 	static void ex1() {
 		/*
 		 * when you create a string by assigning a value, you
