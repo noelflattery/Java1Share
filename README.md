@@ -1,6 +1,5 @@
 # Java1Share
-public repository containing all code for a Java Intermediate programming course, all notes for this course are contained within the code and first four chapters have full
-JavaDoc documentation. Before commencing this course it is advisable to have some programming experience, or complete the <a href="https://github.com/noelflattery/JavaBeginner">Java Beginner</a>
+public repository containing all code for a Java Intermediate programming course, all notes for this course are contained within the code as comments. Before commencing this course it is advisable to have some programming experience, or complete the <a href="https://github.com/noelflattery/JavaBeginner">Java Beginner</a>
 course that is also avialable in my GitHub.
 Videos for all the below topics are available at https://bit.ly/JavaProg1. The code was creating using the eclipse IDE and covers Java 8 but
 will work with any SDK 8 or over. Each Java project corresponds directly to one of the below topics, i.e first java project is a project called "Section 1.1 Define structur of a java class".
